@@ -1,0 +1,14 @@
+variable;label
+VIVIENDA_REF_ID;Identifier for VIVIENDA
+RADIO_REF_ID;Parent entity Id
+TIPVV;Tipo de vivienda agrupado
+V01;Tipo de vivienda particular
+V02;Condición de ocupación
+V00;Tipo de vivienda colectiva
+URP;Area Urbano - Rural
+INCALSERV;Calidad de Conexiones a Servicios Básicos
+INMAT;Calidad de los materiales
+MUNI;Municipio
+LOCAL;Localidad
+INCALCONS;Calidad constructiva de la vivienda
+TOTHOG;Cantidad de Hogares en la Vivienda

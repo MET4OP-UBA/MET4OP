@@ -1,0 +1,4 @@
+variable;label
+RADIO_REF_ID;Identifier for RADIO
+FRAC_REF_ID;Parent entity Id
+IDRADIO;ID. Radio Censal

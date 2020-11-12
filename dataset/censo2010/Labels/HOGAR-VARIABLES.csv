@@ -1,0 +1,24 @@
+variable;label
+HOGAR_REF_ID;Identifier for HOGAR
+VIVIENDA_REF_ID;Parent entity Id
+NHOG;Número del hogar en la vivienda
+H05;Material predominante de los pisos
+H06;Material predominante de la cubierta exterior del techo
+H07;Revestimiento interior o cielorraso del techo
+H08;Tenencia de agua
+H09;Procedencia del agua para beber y cocinar
+H10;Tiene baño / letrina
+H11;Tiene botón, cadena, mochila para limpieza del inodoro
+H12;Desagüe del inodoro
+H13;Baño / letrina de uso exclusivo
+H14;Combustible usado principalmente para cocinar
+H15;Total de habitaciones o piezas para dormir
+H16;Total de habitaciones o piezas
+H19A;Heladera
+H19B;Computadora
+H19C;Teléfono celular
+H19D;Teléfono de línea
+PROP;Régimen de tenencia
+INDHAC;Hacinamiento
+TOTPERS;Total de Personas en el Hogar
+ALGUNBI;Al menos un indicador NBI

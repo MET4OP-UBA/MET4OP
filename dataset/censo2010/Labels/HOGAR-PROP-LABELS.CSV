@@ -1,0 +1,9 @@
+PROP;label
+1;Propietario de la vivienda y del terreno
+2;Propietario sólo de la vivienda
+3;Inquilino
+4;Ocupante por préstamo
+5;Ocupante por trabajo
+6;Otra situación
+7;MISSING
+0;NOTAPPLICABLE

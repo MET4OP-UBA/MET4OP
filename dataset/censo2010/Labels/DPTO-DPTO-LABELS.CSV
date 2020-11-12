@@ -1,0 +1,530 @@
+DPTO;label
+02001;Comuna 01
+02002;Comuna 02
+02003;Comuna 03
+02004;Comuna 04
+02005;Comuna 05
+02006;Comuna 06
+02007;Comuna 07
+02008;Comuna 08
+02009;Comuna 09
+02010;Comuna 10
+02011;Comuna 11
+02012;Comuna 12
+02013;Comuna 13
+02014;Comuna 14
+02015;Comuna 15
+06007;Adolfo Alsina
+06014;Adolfo Gonzáles Chaves
+06021;Alberti
+06028;Almirante Brown
+06035;Avellaneda
+06042;Ayacucho
+06049;Azul
+06056;Bahía Blanca
+06063;Balcarce
+06070;Baradero
+06077;Bartolomé Mitre
+06084;Benito Juárez
+06091;Berazategui
+06098;Berisso
+06105;Bolívar
+06112;Bragado
+06119;Brandsen
+06126;Campana
+06134;Cañuelas
+06140;Capitán Sarmiento
+06147;Carlos Casares
+06154;Carlos Tejedor
+06161;Carmen de Areco
+06168;Castelli
+06175;Colón
+06182;Coronel de Marina L. Rosales
+06189;Coronel Dorrego
+06196;Coronel Pringles
+06203;Coronel Suárez
+06210;Chacabuco
+06217;Chascomús
+06224;Chivilcoy
+06231;Daireaux
+06238;Dolores
+06245;Ensenada
+06252;Escobar
+06260;Esteban Echeverría
+06266;Exaltación de la Cruz
+06270;Ezeiza
+06274;Florencio Varela
+06277;Florentino Ameghino
+06280;General Alvarado
+06287;General Alvear
+06294;General Arenales
+06301;General Belgrano
+06308;General Guido
+06315;General Juan Madariaga
+06322;General La Madrid
+06329;General Las Heras
+06336;General Lavalle
+06343;General Paz
+06351;General Pinto
+06357;General Pueyrredón
+06364;General Rodríguez
+06371;General San Martín
+06385;General Viamonte
+06392;General Villegas
+06399;Guaminí
+06406;Hipólito Yrigoyen
+06408;Hurlingham
+06410;Ituzaingó
+06412;José C. Paz
+06413;Junín
+06420;La Costa
+06427;La Matanza
+06434;Lanús
+06441;La Plata
+06448;Laprida
+06455;Las Flores
+06462;Leandro N. Alem
+06469;Lincoln
+06476;Lobería
+06483;Lobos
+06490;Lomas de Zamora
+06497;Luján
+06505;Magdalena
+06511;Maipú
+06515;Malvinas Argentinas
+06518;Mar Chiquita
+06525;Marcos Paz
+06532;Mercedes
+06539;Merlo
+06547;Monte
+06553;Monte Hermoso
+06560;Moreno
+06568;Morón
+06574;Navarro
+06581;Necochea
+06588;9 de Julio
+06595;Olavarría
+06602;Patagones
+06609;Pehuajó
+06616;Pellegrini
+06623;Pergamino
+06630;Pila
+06638;Pilar
+06644;Pinamar
+06648;Presidente Perón
+06651;Puán
+06655;Punta Indio
+06658;Quilmes
+06665;Ramallo
+06672;Rauch
+06679;Rivadavia
+06686;Rojas
+06693;Roque Pérez
+06700;Saavedra
+06707;Saladillo
+06714;Salto
+06721;Salliqueló
+06728;San Andrés de Giles
+06735;San Antonio de Areco
+06742;San Cayetano
+06749;San Fernando
+06756;San Isidro
+06760;San Miguel
+06763;San Nicolás
+06770;San Pedro
+06778;San Vicente
+06784;Suipacha
+06791;Tandil
+06798;Tapalqué
+06805;Tigre
+06812;Tordillo
+06819;Tornquist
+06826;Trenque Lauquen
+06833;Tres Arroyos
+06840;Tres de Febrero
+06847;Tres Lomas
+06854;25 de Mayo
+06861;Vicente López
+06868;Villa Gesell
+06875;Villarino
+06882;Zárate
+10007;Ambato
+10014;Ancasti
+10021;Andalgalá
+10028;Antofagasta de la Sierra
+10035;Belén
+10042;Capayán
+10049;Capital
+10056;El Alto
+10063;Fray Mamerto Esquiú
+10070;La Paz
+10077;Paclin
+10084;Poman
+10091;Santa María
+10098;Santa Rosa
+10105;Tinogasta
+10112;Valle Viejo
+14007;Calamuchita
+14014;Capital
+14021;Colón
+14028;Cruz del Eje
+14035;General Roca
+14042;General San Martín
+14049;Ischilín
+14056;Juárez Celman
+14063;Marcos Juárez
+14070;Minas
+14077;Pocho
+14084;Presidente Roque Sáenz Peña
+14091;Punilla
+14098;Río Cuarto
+14105;Río Primero
+14112;Río Seco
+14119;Río Segundo
+14126;San Alberto
+14133;San Javier
+14140;San Justo
+14147;Santa María
+14154;Sobremonte
+14161;Tercero Arriba
+14168;Totoral
+14175;Tulumba
+14182;Unión
+18007;Bella Vista
+18014;Berón de Astrada
+18021;Capital
+18028;Concepción
+18035;Curuzú Cuatiá
+18042;Empedrado
+18049;Esquina
+18056;General Alvear
+18063;General Paz
+18070;Goya
+18077;Itatí
+18084;Ituzaingó
+18091;Lavalle
+18098;Mburucuyá
+18105;Mercedes
+18112;Monte Caseros
+18119;Paso de los Libres
+18126;Saladas
+18133;San Cosme
+18140;San Luis del Palmar
+18147;San Martín
+18154;San Miguel
+18161;San Roque
+18168;Santo Tomé
+18175;Sauce
+22007;Almirante Brown
+22014;Bermejo
+22021;Comandante Fernández
+22028;Chacabuco
+22036;12 de Octubre
+22039;2 de Abril
+22043;Fray Justo Santa María de Oro
+22049;General Belgrano
+22056;General Donovan
+22063;General Güemes
+22070;Independencia
+22077;Libertad
+22084;Libertador General San Martín
+22091;Maipú
+22098;Mayor Luis J. Fontana
+22105;9 de Julio
+22112;O'Higgins
+22119;Presidencia de la Plaza
+22126;1°  de Mayo
+22133;Quitilipi
+22140;San Fernando
+22147;San Lorenzo
+22154;Sargento Cabral
+22161;Tapenagá
+22168;25 de Mayo
+26007;Biedma
+26014;Cushamen
+26021;Escalante
+26028;Florentino Ameghino
+26035;Futaleufú
+26042;Gaiman
+26049;Gastre
+26056;Languiñeo
+26063;Martires
+26070;Paso de los Indios
+26077;Rawson
+26084;Río Senguer
+26091;Sarmiento
+26098;Tehuelches
+26105;Telsen
+30008;Colón
+30015;Concordia
+30021;Diamante
+30028;Federación
+30035;Federal
+30042;Feliciano
+30049;Gualeguay
+30056;Gualeguaychú
+30063;Islas del Ibicuy
+30070;La Paz
+30077;Nogoya
+30084;Paraná
+30088;San Salvador
+30091;Tala
+30098;Uruguay
+30105;Victoria
+30113;Villaguay
+34007;Bermejo
+34014;Formosa
+34021;Laishi
+34028;Matacos
+34035;Patiño
+34042;Pilagás
+34049;Pilcomayo
+34056;Pirane
+34063;Ramón Lista
+38007;Cochinoca
+38014;El Carmen
+38021;Dr. Manuel Belgrano
+38028;Humahuaca
+38035;Ledesma
+38042;Palpalá
+38049;Rinconada
+38056;San Antonio
+38063;San Pedro
+38070;Santa Bárbara
+38077;Santa Catalina
+38084;Susques
+38094;Tilcara
+38098;Tumbaya
+38105;Valle Grande
+38112;Yaví
+42007;Atreuco
+42014;Caleu Caleu
+42021;Capital
+42028;Catriló
+42035;Conhelo
+42042;Curacó
+42049;Chalileo
+42056;Chapaleufú
+42063;Chical Có
+42070;Guatraché
+42077;Hucal
+42084;Lihuel Calel
+42091;Limay Mahuida
+42098;Loventué
+42105;Maracó
+42112;Puelén
+42119;Quemú Quemú
+42126;Rancul
+42133;Realicó
+42140;Toay
+42147;Trenel
+42154;Utracán
+46007;Arauco
+46014;Capital
+46021;Castro Barros
+46028;Coronel Felipe Varela
+46035;Chamical
+46042;Chilecito
+46049;Famatina
+46056;General Angel V. Peñaloza
+46063;General Belgrano
+46070;General Juan F.Quiroga
+46077;General Lamadrid
+46084;General Ocampo
+46091;General San Martín
+46098;Vinchina
+46105;Independencia
+46112;Rosario Vera Peñaloza
+46119;San Blas de los Sauces
+46126;Sanagasta
+50007;Capital
+50014;General Alvear
+50021;Godoy Cruz
+50028;Guaymallén
+50035;Junín
+50042;La Paz
+50049;Las Heras
+50056;Lavalle
+50063;Luján de Cuyo
+50070;Maipú
+50077;Malargüe
+50084;Rivadavia
+50091;San Carlos
+50098;San Martín
+50105;San Rafael
+50112;Santa Rosa
+50119;Tunuyán
+50126;Tupungato
+54007;Apóstoles
+54014;Cainguás
+54021;Candelaria
+54028;Capital
+54035;Concepción
+54042;El Dorado
+54049;General Manuel Belgrano
+54056;Guaraní
+54063;Iguazú
+54070;Leandro N. Alem
+54077;Libertador General San Martín
+54084;Montecarlo
+54091;Oberá
+54098;San Ignacio
+54105;San Javier
+54112;San Pedro
+54119;25 de Mayo
+58007;Aluminé
+58014;Añelo
+58021;Catan Lil
+58028;Collón Curá
+58035;Confluencia
+58042;Chos Malal
+58049;Huiliches
+58056;Lacar
+58063;Loncopué
+58070;Los Lagos
+58077;Minas
+58084;Ñorquín
+58091;Pehuenches
+58098;Picún Leufú
+58105;Picunches
+58112;Zapala
+62007;Adolfo Alsina
+62014;Avellaneda
+62021;Bariloche
+62028;Conesa
+62035;El Cuy
+62042;General Roca
+62049;9 de Julio
+62056;Ñorquinco
+62063;Pichi Mahuída
+62070;Pilnaniyeu
+62077;San Antonio
+62084;Valcheta
+62091;25 de Mayo
+66007;Anta
+66014;Cachi
+66021;Cafayate
+66028;Capital
+66035;Cerrillos
+66042;Chicoana
+66049;General Güemes
+66056;General José de San Martín
+66063;Guachipas
+66070;Iruya
+66077;La Caldera
+66084;La Candelaria
+66091;La Poma
+66098;La Viña
+66105;Los Andes
+66112;Metán
+66119;Molinos
+66126;Orán
+66133;Rivadavia
+66140;Rosario de la Frontera
+66147;Rosario de Lerma
+66154;San Carlos
+66161;Santa Victoria
+70007;Albardón
+70014;Angaco
+70021;Calingasta
+70028;Capital
+70035;Caucete
+70042;Chimbas
+70049;Iglesia
+70056;Jáchal
+70063;9 de julio
+70070;Pocito
+70077;Rawson
+70084;Rivadavia
+70091;San Martín
+70098;Santa Lucía
+70105;Sarmiento
+70112;Ullum
+70119;Valle Fértil
+70126;25 de Mayo
+70133;Zonda
+74007;Ayacucho
+74014;Belgrano
+74021;Coronel Pringles
+74028;Chacabuco
+74035;General Pedernera
+74042;Gobernador Dupuy
+74049;Junín
+74056;La Capital
+74063;Libertador General San Martín
+78007;Corpen Aike
+78014;Deseado
+78021;Güer Aike
+78028;Lago Argentino
+78035;Lago Buenos Aires
+78042;Magallanes
+78049;Río Chico
+82007;Belgrano
+82014;Caseros
+82021;Castellanos
+82028;Constitución
+82035;Garay
+82042;General López
+82049;General Obligado
+82056;Iriondo
+82063;La Capital
+82070;Las Colonias
+82077;9 de Julio
+82084;Rosario
+82091;San Cristobal
+82098;San Javier
+82105;San Jerónimo
+82112;San Justo
+82119;San Lorenzo
+82126;San Martín
+82133;Vera
+86007;Aguirre
+86014;Alberdi
+86021;Atamisqui
+86028;Avellaneda
+86035;Banda
+86042;Belgrano
+86049;Capital
+86056;Copo
+86063;Choya
+86070;Figueroa
+86077;General Taboada
+86084;Guasayán
+86091;Jiménez
+86098;Juan F. Ibarra
+86105;Loreto
+86112;Mitre
+86119;Moreno
+86126;Ojo de agua
+86133;Pelegrini
+86140;Quebrachos
+86147;Río Hondo
+86154;Rivadavia
+86161;Robles
+86168;Salavina
+86175;San Martín
+86182;Sarmiento
+86189;Silípica
+90007;Burruyacú
+90014;Cruz Alta
+90021;Chicligasta
+90028;Famallá
+90035;Graneros
+90042;Juan B. Alberdi
+90049;La Cocha
+90056;Leales
+90063;Lules
+90070;Monteros
+90077;Río Chico
+90084;Capital
+90091;Simoca
+90098;Tafí del Valle
+90105;Tafí Viejo
+90112;Trancas
+90119;Yerba Buena
+94007;Río Grande
+94014;Ushuaia
+94021;Islas del Atlántico sur
+94028;Antártida Argentina
+94029;MISSING
+0;NOTAPPLICABLE

@@ -1,0 +1,4 @@
+variable;label
+FRAC_REF_ID;Identifier for FRAC
+DPTO_REF_ID;Parent entity Id
+IDFRAC;Id. Fracción

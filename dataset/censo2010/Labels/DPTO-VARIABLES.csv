@@ -1,0 +1,6 @@
+variable;label
+DPTO_REF_ID;Identifier for DPTO
+PROV_REF_ID;Parent entity Id
+IDDPTO;Id. Departamento / Partido
+DPTO;Departamento / Partido
+NOMDPTO;Departamento / Partido

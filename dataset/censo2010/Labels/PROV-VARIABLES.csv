@@ -1,0 +1,6 @@
+variable;label
+PROV_REF_ID;Identifier for PROV
+CPV2010_REF_ID;Parent entity Id
+IDPROV;Id. Provincia
+PROV;Provincia
+NOMPROV;Provincia
