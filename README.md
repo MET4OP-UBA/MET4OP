@@ -19,5 +19,4 @@ CANTO III.
 
 ## Presentación
 
-La presente asignatura versa sobre los métodos y técnicas de investigación propias de la opinión pública. El propósito de la materia es introducir al estudiante un conjunto de herramientas metodológicas que le permitan
-articular los contenidos teóricos propios de la orientación de opinión pública junto con los requerimientos empı́ricos del analista y/o investigador. Para ello la materia cuenta con un fuerte contenido teórico estadı́stico y una práctica orientada a la implementación computacional en Python de los métodos en problemas de la opinión pública.
+La presente asignatura versa sobre los métodos y técnicas de investigación propias de la opinión pública. El propósito de la materia es introducir al estudiante un conjunto de herramientas metodológicas que le permitan articular los contenidos teóricos propios de la orientación de opinión pública junto con los requerimientos empı́ricos del analista y/o investigador. Para ello la materia cuenta con un fuerte contenido teórico estadı́stico y una práctica orientada a la implementación computacional en Python de los métodos en problemas de la opinión pública.
