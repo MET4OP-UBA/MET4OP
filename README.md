@@ -6,6 +6,7 @@ CANTO III.
 
 >
 > Por mi se va a la ciudad del llanto; por mi se va al eterno dolor; por mi se va hacia la raza condenada; la justicia animó a mi sublime arquitecto; me hizo la divina potestad, la suprema sabiduria y el primer amor. Antes que yo no hubo nada creado, a excepción de lo eterno, y yo duro eternamente. ¡Oh vosotros los que entráis, abandonad toda esperanza! Vi escritas estas palabras con caracteres negros en el dintel de una puerta, por lo cual exclamé:
+
 >
 > -Maestro, el sentido de estas palabras me causa pena.
 >
