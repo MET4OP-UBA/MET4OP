@@ -1,0 +1,70 @@
+1. El dado negro posee la siguiente distribución de probabilidad
+
+      1     2     3     4     5     6
+      0.4   0.3   0.15  0.075 0.05 0.025
+
+El dado blanco posee la siguiente distribución de probabilidad
+
+
+      6     5     4     3     2     1
+      0.4   0.3   0.15  0.075 0.05 0.025
+
+Si se tiran ambos dados
+
+A. ¿Cuál es la probabilidad de obtener generala servida?
+B. ¿Cuál es la probabilidad de obtener escalera servida? ¿Cual es la probabilidad de obtener full en una tirada?
+C. ¿Cuál es la probabilidad de obtener un 7?
+D. ¿Cual es la esperanza del dado Blanco y del dado Negro?
+E. ¿Cuál es la varianza del dado Blanco y del dado Negro?
+F. Se define a 
+X = ((dado_negro+dado_blanco) - 7)^2
+Construya la distribución de probabilidad de X.
+G. ¿Cuál es la esperanza de X?
+H. ¿Cuál es la Varianza de X?
+I. Si el dado blanco obtuvo un número par, ¿Cuál es P(X<=7)?
+
+
+
+2. El dado negro posee la siguiente distribución de probabilidad
+
+      1     2     3     4     5     6
+      0.4   0.3   0.15  0.075 0.05 0.025
+
+El dado blanco posee la siguiente distribución de probabilidad
+
+
+Si el dado negro es par, se tira el dado blanco 1 con probabilidad
+
+      1     2     3     4     5     6
+      0.4   0.3   0.15  0.075 0.05 0.025
+
+
+Si el dado negro es impar, se tira el dado blanco 1 con probabilidad
+
+      6     5     4     3     2     1
+      0.4   0.3   0.15  0.075 0.05 0.025
+
+Se tira primero el dado negro y luego en funcion del resultado algún dado blanco...
+
+A. ¿Cuál es la probabilidad de obtener generala servida?
+B. ¿Cuál es la probabilidad de obtener escalera servida? ¿Cuál es la probabilidad de obtener full en una tirada?
+C. ¿Cuál es la probabilidad de obtener un 7?
+D. ¿Cuál es la esperanza del dado Blanco y del dado Negro?
+E. ¿Cuál es la varianza del dado Blanco y del dado Negro?
+F. Si se define a X = ((dado_negro+dado_blanco) - 7)^2, construya la distribución de probabilidad de X
+G. ¿Cuál es la esperanza de X?
+H. ¿Cuál es la Varianza de X?
+I. Si el dado blanco obtuvo un número par, ¿Cuál es P(X<=9)?
+
+
+3. Se tira una moneda equilibrada 20 veces y se observa el número de veces que salió cara.
+
+A. ¿Cuál es la probabilidad de observar 10 caras?
+B. ¿Cuál es la probabilidad de no observar ninguna cara?
+C. Calcule la varianza y la Esperanza
+D. ¿Cuál es la mediana?
+E. Si se obtuvieron 20 secas, ¿cuál es la probabilidad de que en la tirada 21 se obtenga una cara?
+F. Si se obtuvo un número par de caras, ¿cuál es la probabilidad de obtener los valores de 0 a 20?
+
+
+
