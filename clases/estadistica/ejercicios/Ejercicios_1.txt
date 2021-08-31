@@ -11,8 +11,8 @@ El dado blanco posee la siguiente distribución de probabilidad
 
 Si se tiran ambos dados
 
-A. ¿Cuál es la probabilidad de obtener generala servida?
-B. ¿Cuál es la probabilidad de obtener escalera servida? ¿Cual es la probabilidad de obtener full en una tirada?
+A. ¿Cuál es la probabilidad de obtener dos dados iguales?
+B. ¿Cuál es la probabilidad de obtener dos dados cuyos números sean consecutivos? ¿Cual es la probabilidad de obtener un número par e impar en una tirada?
 C. ¿Cuál es la probabilidad de obtener un 7?
 D. ¿Cual es la esperanza del dado Blanco y del dado Negro?
 E. ¿Cuál es la varianza del dado Blanco y del dado Negro?
@@ -46,8 +46,8 @@ Si el dado negro es impar, se tira el dado blanco 1 con probabilidad
 
 Se tira primero el dado negro y luego en funcion del resultado algún dado blanco...
 
-A. ¿Cuál es la probabilidad de obtener generala servida?
-B. ¿Cuál es la probabilidad de obtener escalera servida? ¿Cuál es la probabilidad de obtener full en una tirada?
+A. ¿Cuál es la probabilidad de obtener dos dados iguales?
+B. ¿Cuál es la probabilidad de obtener dos dados cuyos números sean consecutivos? ¿Cuál es la probabilidad de obtener un número par e impar en una tirada?
 C. ¿Cuál es la probabilidad de obtener un 7?
 D. ¿Cuál es la esperanza del dado Blanco y del dado Negro?
 E. ¿Cuál es la varianza del dado Blanco y del dado Negro?
