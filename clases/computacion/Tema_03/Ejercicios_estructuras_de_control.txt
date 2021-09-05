@@ -1,0 +1,45 @@
+1. Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
+
+a. La cantidad de valores ingresados negativos.
+b. La cantidad de valores ingresados positivos.
+c. La cantidad de múltiplos de 15.
+d. El valor acumulado de los números ingresados que son pares.
+
+2. En una playa de estacionamiento “Apart Car MicroCentro” se cobra de la siguiente manera: los 10 minutos son gratis, los siguientes 30 minutos tiene un valor de $ 25.00 y la hora $45.00. Se
+desea escribir un programa que, para 5 vehículos, reciba tanto minutos como horas y
+muestre lo que debe cancelar cada cliente. Tomando en cuenta que si es Martes o Sábado se
+hace un descuento del 20% sobre el monto total. Al finalizar el ingreso de los 5 vehículos, el
+programa debe mostrar cuántos vehículos permanecieron menos de media hora.
+
+3. Realizar un algoritmo que pida al usuario su Peso y su Altura de n personas. Calcule el IMC
+(índice de masa corporal), muestre por cada persona que se ingresa, el mensaje correspondiente (ver tabla). Además, debe mostrar la cantidad de personas que está en cada
+categoría
+Formula
+IMC = masa [kg] / (estatura [m])2
+
+Si este da menor que 18.5 es CATEGORÍA 1 .
+Si da entre 18.5 y 25 da CATEGORÍA 2.
+Si da entre 25 y 30 es CATEGORÍA 3.
+Si da mayor a 30 es CATEGORÍA4.
+
+4.Escribir un programa que pida números enteros hasta que se introduzca un cero. Debe
+imprimir la suma y el promedio de todos los números introducidos.
+
+5. Se definen los números triangulares como los obtenidos de sumar los números naturales
+sucesivos 1, 2, 3.... Es decir, los primeros números triangulares son 1, 3, 6, 10, etc. Escribir un
+programa que muestre los N primeros números triangulares.
+
+6. En la Cámara de Diputados se levanta una encuesta con todos los integrantes con el fin de
+determinar qué porcentaje de los n diputados está a favor de modificar el mínimo no imponible del Impuesto a las Ganancias, qué porcentaje está en contra y qué porcentaje se abstiene de opinar.
+
+7. Elaborar un programa que dado un número entero calcule el producto de sus dígitos.
+
+8. Mostrar las tablas de multiplicar del 1 al 7.
+
+9. Ingresar dos números enteros. Verificar si el primero es menor que el segundo. En caso
+afirmativo mostrar todos los números comprendidos entre ellos en secuencia ascendente, incluyendo los extremos. En caso contrario mostrar un cartel.
+
+9. Hacer un algoritmo para obtener la suma de 10 cantidades.
+
+10.Realizar un algoritmo para generar y mostrar los números pares que se encuentran
+entre 0 y 100.
