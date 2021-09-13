@@ -1,6 +1,6 @@
 # Tema 04
 
-## Clase 04 y 05
+## Clase 04
 
 #### Fecha
 
@@ -8,4 +8,4 @@
 
 #### Descripción
 
-Funciones. Ejercicios
+Funciones. Ejemplos y ejercicios

@@ -7,3 +7,5 @@ TEMAS
 02: Introducción a la Programación. Tipos de datos y Ejercicios
 
 03: Estructuras de Control. Ejercicios
+
+04: Funciones. Ejemplos y ejercicios
