@@ -1,0 +1,300 @@
+[33mcommit 638d0fb029bcd9c857baf99bee0be85e830a46df[m[33m ([m[1;36mHEAD -> [m[1;32mpropuestas[m[33m, [m[1;31morigin/propuestas[m[33m)[m
+Author: NSchteimberg <nschteimberg@gmail.com>
+Date:   Wed Sep 15 14:06:12 2021 -0300
+
+    Agrego en otro archivo un programa que permite detectar si el numero ingresado es primo o compuesto
+
+[33mcommit 1cebd256007c2471fa80f943a245a5495173f9bc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: NSchteimberg <nschteimberg@gmail.com>
+Date:   Wed Sep 15 12:23:14 2021 -0300
+
+    Commit de pureba para ver si entendí git. Se sube prueba.txt
+
+[33mcommit 45214d994df00b8531947cabd6d704e6e6c86223[m
+Author: Lena Sofía <lenasofia51@gmail.com>
+Date:   Wed Sep 15 12:01:41 2021 -0300
+
+    Agregué carpeta exámenes y cree archivo primo_numero_mil
+
+[33mcommit fa8a95c7fc6e700d36d71cf9e1c1ae6606930502[m
+Author: fbarone1988 <58009479+fbarone1988@users.noreply.github.com>
+Date:   Tue Sep 14 21:55:00 2021 -0300
+
+    Update README.md
+
+[33mcommit a2c0d4567477c9252dbecbd20824ad18d281509f[m
+Author: fbarone1988 <58009479+fbarone1988@users.noreply.github.com>
+Date:   Tue Sep 14 21:53:55 2021 -0300
+
+    Update README.md
+
+[33mcommit 3aa35e2df5b26e69a98762f5f76a51bc015f34f4[m
+Author: fbarone1988 <58009479+fbarone1988@users.noreply.github.com>
+Date:   Tue Sep 14 21:48:33 2021 -0300
+
+    Delete clases/computacion/Tema_05/Numpy directory
+
+[33mcommit a4d1a3e657af45ae2ce8e7c4dc6ef582c5c11660[m
+Author: Franco <franco.barone@hotmail.com>
+Date:   Tue Sep 14 21:46:32 2021 -0300
+
+    Numpy
+
+[33mcommit a70a332240b0817d6c59e0bd702ca30b16de31f2[m
+Author: Franco <franco.barone@hotmail.com>
+Date:   Tue Sep 14 21:44:08 2021 -0300
+
+    Numpy
+
+[33mcommit 4c9e8f3d7aa12f530830aca1cef946db1ee51d27[m
+Merge: 4b3ad86 1a59c9a
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Sun Sep 12 05:44:51 2021 -0300
+
+    Merge pull request #12 from JMontesGadda/master
+    
+    Funciones
+
+[33mcommit 1a59c9a23df8777538d6a818cc8fd19b73b81fa1[m
+Author: Juana Montes Gadda <juanamontes98@gmail.com>
+Date:   Tue Sep 7 17:41:44 2021 -0300
+
+    funciones
+
+[33mcommit 2bb0a2132f98fc25a840c4d8de909c3e17139b0e[m
+Author: Juana Montes Gadda <juanamontes98@gmail.com>
+Date:   Tue Sep 7 17:16:00 2021 -0300
+
+    funciones
+
+[33mcommit 4b3ad860b360f99f79146c2f096889c245c92f70[m
+Merge: 790e878 23dba56
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Mon Sep 6 21:57:57 2021 -0300
+
+    Merge pull request #10 from juanfstillo/master
+    
+    Estructuras de control, ejercicios y Readme
+
+[33mcommit 23dba5635ca537cc2339d1fa730fb5167918a07f[m
+Author: juanfstillo <juan.stillo1@gmail.com>
+Date:   Sat Sep 4 23:46:22 2021 -0300
+
+    Estructuras de control, ejercicios y Readme
+
+[33mcommit 790e878f1866b4e82155b3303f8491703d9946ab[m
+Merge: 768c60f b23210b
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Tue Aug 31 14:10:01 2021 -0300
+
+    Merge pull request #9 from taodeying/master
+    
+    Corr ej 1
+
+[33mcommit b23210be9a62aea4b694a1340efee783945a42b0[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Tue Aug 31 14:08:27 2021 -0300
+
+    EJ 1
+    
+    Corr ej 1
+
+[33mcommit 768c60ff33de8428bf2a73cac077cfffaa362d80[m
+Merge: be6478c c441f1f
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Mon Aug 30 18:53:58 2021 -0300
+
+    Merge pull request #8 from taodeying/master
+    
+    ej de estad
+
+[33mcommit c441f1f6694ff6544560fdebb0a82a1e3aec9bcd[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Mon Aug 30 18:53:05 2021 -0300
+
+    ej de estad
+    
+    ej de estad
+
+[33mcommit ed37b7aa902d1e09571173b0e5e13a63bc9c06fe[m
+Merge: cc7aae4 7ccc3b2
+Author: taodeying <olegtomas@gmail.com>
+Date:   Mon Aug 30 18:51:17 2021 -0300
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit cc7aae4f4dd6063f64f3626075630b2ddf50cb3f[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Mon Aug 30 18:26:41 2021 -0300
+
+    Tanda 1 de Ejercicios de Estadística
+    
+    Tanda 1 de Ejercicios de Estadística
+
+[33mcommit be6478ca8f11cb0888e5bbf40a87dad1e17ba9fb[m
+Merge: 4cae0bc 7ccc3b2
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Mon Aug 30 18:32:31 2021 -0300
+
+    Merge pull request #7 from taodeying/master
+    
+    Tanda 1 de Ejercicios de Estadística
+
+[33mcommit 7ccc3b2fcaee44510d002f0b839c113ba6f8c78e[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Mon Aug 30 18:26:41 2021 -0300
+
+    Tanda 1 de Ejercicios de Estadística
+    
+    Tanda 1 de Ejercicios de Estadística
+
+[33mcommit 4cae0bc3a2260393ba7ce40d74085ec6d157fb27[m
+Merge: 36936a1 44fdd5c
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Mon Aug 30 01:15:25 2021 -0300
+
+    Merge pull request #6 from juanfstillo/master
+    
+    Actualizacion del Readme. Clase 2 con tipos de datos y ejercicios;
+
+[33mcommit 44fdd5c52f9db6172a9fe1e65913b845324d9e96[m
+Author: juanfstillo <juan.stillo1@gmail.com>
+Date:   Sat Aug 28 02:45:31 2021 -0300
+
+    Actualizacion del Readme. Clase 2 con tipos de datos y ejercicios;
+
+[33mcommit 36936a189a0fc9715561760de2c2450fc6da18f7[m
+Merge: e7dd701 ca221e7
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Thu Aug 19 16:56:43 2021 -0300
+
+    Merge pull request #5 from mvsticco/master
+    
+    tema_00 y tema_01
+
+[33mcommit ca221e799ec21339267c853621b5d91faf0c3d96[m
+Author: mvsticco <mvsticco@gmail.com>
+Date:   Thu Aug 19 11:56:20 2021 -0300
+
+    actualizacion readme clases_computacion y subida de los archivos del tema_01
+
+[33mcommit 8c5292f7ae1fca7f398a89faf4b6265d8b2f07ec[m
+Author: mvsticco <mvsticco@gmail.com>
+Date:   Thu Aug 19 11:43:13 2021 -0300
+
+    tema_00 colab, git y github y actualizacion del readme
+
+[33mcommit e7dd701a17c57955a5e239ddc9b2b88fe734cf97[m
+Merge: 9b64b9f 4d4bd4c
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Wed Aug 18 22:49:04 2021 -0300
+
+    Merge pull request #4 from taodeying/master
+    
+    Clases de estadística
+
+[33mcommit 4d4bd4c531a3ccb35f36c93e98bc61460122745a[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Wed Aug 18 22:47:15 2021 -0300
+
+    Apuntes de Estadística
+    
+    Apuntes de Estadística para la clase 01-03. La versión de los apuntes de la clase 3 está en estado beta y la de la clase 02 en alpha
+
+[33mcommit 9b64b9ff807faf8e01eb808bad44211f8e30123d[m
+Merge: 07ba062 50d5029
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Wed Aug 18 21:39:24 2021 -0300
+
+    Merge pull request #3 from taodeying/master
+    
+    Carpetas
+
+[33mcommit 50d5029e2fb925dd1312313462bab8389d73d2f6[m
+Merge: fde36d2 9c61c2e
+Author: taodeying <olegtomas@gmail.com>
+Date:   Wed Aug 18 21:34:24 2021 -0300
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit fde36d2548974bf7ca1d5e4883866621c2c54821[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Wed Aug 18 15:21:23 2021 -0300
+
+    carpetas
+    
+    Cambio de Carpetas
+
+[33mcommit 07ba062db460ad0aebd137573781a23877f95d19[m
+Merge: 53ad5b3 9c61c2e
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Wed Aug 18 15:27:05 2021 -0300
+
+    Merge pull request #2 from taodeying/master
+    
+    carpetas
+
+[33mcommit 9c61c2eb1ecbd21044028aae998b4bc4fa6196c1[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Wed Aug 18 15:21:23 2021 -0300
+
+    carpetas
+    
+    Cambio de Carpetas
+
+[33mcommit 53ad5b3106dc00abde1ffaab78984e983ac22a4f[m
+Merge: b6f7893 8530a39
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Sat Aug 14 06:59:09 2021 -0300
+
+    Merge pull request #1 from taodeying/master
+    
+    test fork & team & organization on init file
+
+[33mcommit 8530a391ac18f879732c16e4750e1d7a8fd53495[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Sat Aug 14 06:26:41 2021 -0300
+
+    test fork & team & organization on init file
+    
+    cambio irrelevante on init file
+
+[33mcommit b6f7893c44470f4a2ee043a3f0c0fd3ca9b57fe1[m
+Author: taodeying <olegtomas@gmail.com>
+Date:   Sat Aug 14 05:56:56 2021 -0300
+
+    corrección del readme
+
+[33mcommit 64c8898169d55e5bd1b3be913612180eb02ebc20[m
+Author: TAO <olegtomas@gmail.com>
+Date:   Sat Aug 14 05:45:38 2021 -0300
+
+    corrección del readme
+
+[33mcommit b69fecd3a0bcb3bfe98d0efcbfc0c419ba6b234d[m
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Sat Aug 14 05:00:25 2021 -0300
+
+    Create label.yml
+    
+    etiquetas automáticas
+
+[33mcommit b29d2b725455b8650b810f9e5a1ed7ab2c95f143[m
+Author: taodeying <62394427+taodeying@users.noreply.github.com>
+Date:   Sat Aug 14 04:58:11 2021 -0300
+
+    Create greetings.yml
+    
+    Young fool. Only now, at the end, do you understand
+
+[33mcommit be8da8567334cbdb85fe6054721edeb50be99e40[m
+Author: tao <olegotomas@tuta.io>
+Date:   Mon Nov 16 21:11:36 2020 -0300
+
+    viz
+
+[33mcommit a74aa5369f246ff37a440fb2b1f653bb4e15ccc6[m
+Author: tao <olegotomas@tuta.io>
+Date:   Thu Nov 12 01:42:11 2020 -0300
+
+    aux
