@@ -10,4 +10,6 @@
 
 - 04: Funciones.
 
-- 05: Numpy
+- 05: Numpy.
+
+- 06: Pandas (próximamente).
