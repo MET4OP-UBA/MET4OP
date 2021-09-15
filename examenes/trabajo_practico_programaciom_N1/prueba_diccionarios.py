@@ -76,15 +76,21 @@ diccionario_primos = {
 # Vamos a ver si ese número y su índice están en el diccionario de primos que tenemos
 
 if indice_primo in diccionario_primos.keys():
-    
+    print(F'El primo número {indice_primo} es el {diccionario_primos[indice_primo]}')
+else:
+    pass #Acá vamos a poner la función y pasarle como parámetro nuestro número, pero hay que armar cosas antes
+
 
 
 def ver_si_es_primo(numero):
     primo = True
 
-    if numero not in primos.values():
+    if numero not in primos.values(): # O saco el if/else de arriba o saco este, los dos son al pedo
 
-        for clave, valor in primos.items():
+        for clave, valor in diccionario_primos.items():
+            # Acá lo que quiero hacer es que vaya probando dividir por todos los números primos y que cuando se acaben
+            # le agregué 1 al último número primo que tenemos y siga buscando a partir de ese hasta el número que buscamos
+            # y una vez hecho eso vaya agregando los números primos que vaya encontrando en el camino, esa sería mi idea
 
             if numero % valor == 0:
                 primo = False
