@@ -1,4 +1,9 @@
-# Le pedimos al usuario que ingrese un número, el cuál será el índice del primo que quiere encontrar
+# FALTA QUE CUANDO TERMINE DE ARMAR LA LISTA LA FUNCIÓN DEVUELVA LA LISTA ENTERA QUE ARMÓ Y NO GUARDE
+# SOLO LA QUE ESTABA GUARDADA DE ANTES
+
+# Falta ver si la podemos hacer más rápida
+
+# Falta que quede todo metido en la función
 
 indice_primo = input("Por favor ingrese un numero entero positivo para saber el numero primo que se encuentra en esa posición: ")
 
