@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="En prueba diccionario cambié cosas para tratar de dividir sólo por los primos y no por todos los números" />
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="En prueba diccionario cambié cosas para tratar de dividir sólo por los primos y no por todos los números">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +97,7 @@
       <workItem from="1631742272340" duration="385000" />
       <workItem from="1631742679779" duration="55000" />
       <workItem from="1631742760625" duration="1725000" />
+      <workItem from="1631811013126" duration="3797000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -158,5 +162,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/prueba_diccionarios_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1631744253544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/primo_numero_mil_py$primo_numero_mil.coverage" NAME="primo_numero_mil Coverage Results" MODIFIED="1631732306396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+    <SUITE FILE_PATH="coverage/ej1_detectar_primos_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1631814461961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
   </component>
 </project>
