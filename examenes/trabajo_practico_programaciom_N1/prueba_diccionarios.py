@@ -5,37 +5,36 @@
 
 # Falta que quede todo metido en la función
 
-indice_primo = input("Por favor ingrese un numero entero positivo para saber el numero primo que se encuentra en esa posición: ")
-
-try:
-    indice_primo = int(indice_primo)
-
-except:
-    indice_primo = 0
-
-
 diccionario_primos = {
-        1: 2,
-        2: 3,
-        3: 5,
-        4: 7,
-        5: 11,
-        6: 13
+        1: 2
+        #2: 3,
+        #3: 5,
+        #4: 7,
+        #5: 11,
+       # 6: 13
     }
 
 def encontrar_primo(numero_ingresado):
+
+    try:
+        numero_ingresado = int(numero_ingresado)
+
+    except:
+        numero_ingresado = 0
 
     if numero_ingresado < 1:
         print("Usted no ingresó un número entero positivo")
 
     elif numero_ingresado in diccionario_primos.keys():
-        print(F'El primo número {indice_primo} es el {diccionario_primos[indice_primo]}')
+        # Return?
+        print(F'El primo número {numero_ingresado} es el {diccionario_primos[numero_ingresado]}')
 
     else:
 
         contador = len(diccionario_primos)
 
         ultimo_primo = diccionario_primos[contador] + 1
+        # Revisar si tengo que sacar este +1
 
         while contador != numero_ingresado:
 
@@ -56,5 +55,7 @@ def encontrar_primo(numero_ingresado):
 
     return diccionario_primos
 
-primo_numero_x = encontrar_primo(indice_primo)
+primo_numero_x = encontrar_primo(input("Por favor ingrese un numero entero positivo para saber el numero "
+                                       "primo que se encuentra en esa posición: "))
+
 print(diccionario_primos)
