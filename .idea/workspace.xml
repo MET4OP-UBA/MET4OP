@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="En prueba diccionario armé la función para buscar números primos, me falta corregirle qué pasa cuándo el elemento ya está en el diccionario y/o es menor a 2">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-    </list>
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="En prueba diccionario armé la función para buscar números primos, me falta corregirle qué pasa cuándo el elemento ya está en el diccionario y/o es menor a 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,7 @@
       <workItem from="1631742272340" duration="385000" />
       <workItem from="1631742679779" duration="55000" />
       <workItem from="1631742760625" duration="1725000" />
-      <workItem from="1631811013126" duration="4461000" />
+      <workItem from="1631811013126" duration="4510000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631815513693</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="En prueba diccionario armé la función para buscar números primos, me falta corregirle qué pasa cuándo el elemento ya está en el diccionario y/o es menor a 2">
+      <created>1631815560061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631815560061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
