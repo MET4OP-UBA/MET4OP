@@ -2,21 +2,35 @@
 import numpy as np
 import pandas as pd
 
-# Decidí hacerlo en un DF de pandas para poder operar más fácil (divisiones y multiplicaciones)
+# Toda esta sección es para armar el DataFrame con el que se va a iterar
+lista_cocientes = []
+lista_partidos = []
+lista_votos = []
 
-votos = {"Partido": ["JxC", "FdT", "CF","FIT", "UNITE", "AyL"],
-        "Votos": [1060404, 641054, 114968, 122560, 36420, 24685],
-        "Cociente": [1, 1, 1, 1, 1, 1]}
+n_partidos = int(input("Ingrese el número de partidos: "))
 
-votosDF = pd.DataFrame(votos, 
-                        columns=["Partido", "Votos", "Cociente"])
+for i in range(0,n_partidos):
+    lista_cocientes.append(1)
+
+for i in range(0,n_partidos):
+    partidos = str(input("Ingrese el nombre del partido en orden descendente por votos: "))
+    lista_partidos.append(partidos)
+
+for i in range(0,n_partidos):
+    votos = int(input("Ingrese la cantidad de votos en orden descendente: "))
+    lista_votos.append(votos)
+
+votos_d ={"Partido": lista_partidos, "Votos": lista_votos, "Cociente": lista_cocientes}
+
+votosDF = pd.DataFrame(votos_d)     
+# Aquí ya está armado el DataFrame, lo que qquizás se podría mejorar es convertir todo lo anterior en una función que también imprima el Df,
+# así el usario puede ver si se equivocó cuando ingresó algun dato y repetir el proceso para corregirlo
 
 # Las bancas en juego son la cantidad de iteraciones que debe hacer
-bancas_en_juego = 12
+bancas_en_juego = int(input("Ingrese la cantidad de bancas a repartir: "))
 
 # La idea del método D'Hondt es que divide todos los candidatos por un cociente inicial de 1, y el valor máximo se lleva la banca
-# En la siguiente iteración, el cociente del candidato que se llevó la última banca aumenta en 1. Por lo que pasaría a dividir por 2. 
-# Y así sucesivamente se van aumentando los cocientes cada vez que se consigue una banca
+# En la siguiente iteración, el cociente del candidato que se llevó la última banca aumenta en 1. Por lo que pasaría a dividir por 2. Y así sucesivamente se van aumentando los cocientes cada vez que se consigue una banca
 # La cantidad de bancas es igual al cociente final -1 (porque las bancas comienzan en 0, y los cocientes comienzan en 1)
 
 # En cuanto al código, primero divide por el cociente, luego aumenta en 1 al cociente del mayor producto de la división, 
@@ -39,3 +53,4 @@ for i in range(1,bancas_en_juego+1):
 bancas_final = votosDF.rename(columns={"Cociente": "Bancas"})
 bancas_final["Bancas"] -= 1
 print(bancas_final)
+
