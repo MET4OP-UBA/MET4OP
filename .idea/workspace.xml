@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Aclaré qué le falta a la función">
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Acomodé un toque el prueba_diccionario, le falta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +106,8 @@
       <workItem from="1631742679779" duration="55000" />
       <workItem from="1631742760625" duration="1725000" />
       <workItem from="1631811013126" duration="4510000" />
+      <workItem from="1632000715185" duration="3807000" />
+      <workItem from="1632004595069" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -170,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631818539802</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Acomodé un toque el prueba_diccionario, le falta">
+      <created>1631823792857</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1631823792857</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,11 +205,12 @@
     <MESSAGE value="En prueba diccionario armé la función para buscar números primos, me falta corregirle qué pasa cuándo el elemento ya está en el diccionario y/o es menor a 2" />
     <MESSAGE value="Armé función buscar primos, le faltan detalles" />
     <MESSAGE value="Aclaré qué le falta a la función" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aclaré qué le falta a la función" />
+    <MESSAGE value="Acomodé un toque el prueba_diccionario, le falta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acomodé un toque el prueba_diccionario, le falta" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/prueba_diccionarios_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1631744253544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/primo_numero_mil_py$primo_numero_mil.coverage" NAME="primo_numero_mil Coverage Results" MODIFIED="1631732306396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
-    <SUITE FILE_PATH="coverage/ej1_detectar_primos_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1631821987630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+    <SUITE FILE_PATH="coverage/ej1_detectar_primos_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1632004539792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
   </component>
 </project>
