@@ -39,7 +39,6 @@ inicio = time.time()
 primo_numero_x = encontrar_primo(input("Por favor ingrese un numero entero positivo para saber el numero primo que se encuentra en esa posición: "))
 print(primo_numero_x)
 
-
 fin = time.time()
 
 print(fin-inicio)
