@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad">
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Agregué ejercicio 2, contar la cantidad de primeros días del mes que fueron jueves desde 1970/1/1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" beforeDir="false" afterPath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +182,8 @@
       <workItem from="1632012420235" duration="219000" />
       <workItem from="1632014239634" duration="264000" />
       <workItem from="1632072674199" duration="4003000" />
-      <workItem from="1632078011497" duration="7080000" />
+      <workItem from="1632078011497" duration="9544000" />
+      <workItem from="1632146444100" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632014447078</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Agregué ejercicio 2, contar la cantidad de primeros días del mes que fueron jueves desde 1970/1/1">
+      <created>1632098831480</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1632098831480</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,10 +321,11 @@
     <MESSAGE value="Cambie nombres en detectar primos diccionario, agregué detectar primos lista (para probar con listas)" />
     <MESSAGE value="Borré detectar primos lista" />
     <MESSAGE value="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad" />
+    <MESSAGE value="Agregué ejercicio 2, contar la cantidad de primeros días del mes que fueron jueves desde 1970/1/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregué ejercicio 2, contar la cantidad de primeros días del mes que fueron jueves desde 1970/1/1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ejercicio_2_promo_py$ejercicio_2_promo.coverage" NAME="ejercicio_2_promo Coverage Results" MODIFIED="1632098686342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+    <SUITE FILE_PATH="coverage/ejercicio_2_promo_py$ejercicio_2_promo.coverage" NAME="ejercicio_2_promo Coverage Results" MODIFIED="1632101223318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$primos.coverage" NAME="primos Coverage Results" MODIFIED="1632006621926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$detectar_primos_diccionario.coverage" NAME="detectar_primos_diccionario Coverage Results" MODIFIED="1632010098776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/ejercicio1Promo_py$ejercicio1Promo.coverage" NAME="ejercicio1Promo Coverage Results" MODIFIED="1632072971734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
