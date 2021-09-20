@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Borré detectar primos lista">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/detectar_primos_diccionario.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" beforeDir="false" afterPath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +39,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.detectar_primos_lista">
-    <configuration name="detectar_primos_diccionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ejercicio_2_promo">
+    <configuration name="detectar_primos_diccionario (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Lena\miniconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="SDK_HOME" value="C:\Users\Lena\miniconda3\envs\Met4Op\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Tp 1" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/detectar_primos_diccionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Tp 1/detectar_primos_diccionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,29 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Lena\miniconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/primos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prueba_diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicio1Promo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -143,7 +119,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/prueba_diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio_2_promo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lena\miniconda3\envs\Met4Op\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio_2_promo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejercicio_2_promo" />
+        <item itemvalue="Python.detectar_primos_diccionario (2)" />
+        <item itemvalue="Python.ejercicio1Promo" />
         <item itemvalue="Python.detectar_primos_lista" />
         <item itemvalue="Python.detectar_primos_diccionario" />
-        <item itemvalue="Python.detectar_primos_diccionario (1)" />
-        <item itemvalue="Python.primos" />
-        <item itemvalue="Python.prueba_diccionarios" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +181,9 @@
       <workItem from="1632004761732" duration="5843000" />
       <workItem from="1632010756407" duration="887000" />
       <workItem from="1632012420235" duration="219000" />
-      <workItem from="1632014239634" duration="172000" />
+      <workItem from="1632014239634" duration="264000" />
+      <workItem from="1632072674199" duration="4003000" />
+      <workItem from="1632078011497" duration="7080000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632011630517</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad">
+      <created>1632014447078</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1632014447078</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,12 +313,16 @@
     <MESSAGE value="Mejoré detectar primos (ex prueba_diccionario), le cambié el nombre y borré ej1_detectar_primos" />
     <MESSAGE value="Cambie nombres en detectar primos diccionario, agregué detectar primos lista (para probar con listas)" />
     <MESSAGE value="Borré detectar primos lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Borré detectar primos lista" />
+    <MESSAGE value="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambié &quot;i&quot; por &quot;num&quot; en &quot;ejercicio1Promo&quot; sólo por legibilidad" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ejercicio_2_promo_py$ejercicio_2_promo.coverage" NAME="ejercicio_2_promo Coverage Results" MODIFIED="1632098686342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$primos.coverage" NAME="primos Coverage Results" MODIFIED="1632006621926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$detectar_primos_diccionario.coverage" NAME="detectar_primos_diccionario Coverage Results" MODIFIED="1632010098776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+    <SUITE FILE_PATH="coverage/ejercicio1Promo_py$ejercicio1Promo.coverage" NAME="ejercicio1Promo Coverage Results" MODIFIED="1632072971734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/prueba_diccionarios_py$prueba_diccionarios.coverage" NAME="prueba_diccionarios Coverage Results" MODIFIED="1631744253544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
+    <SUITE FILE_PATH="coverage/ejercicio1Promo_py$detectar_primos_diccionario__2_.coverage" NAME="detectar_primos_diccionario (2) Coverage Results" MODIFIED="1632073348710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Tp 1" />
     <SUITE FILE_PATH="coverage/primo_numero_mil_py$primo_numero_mil.coverage" NAME="primo_numero_mil Coverage Results" MODIFIED="1631732306396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$detectar_primos_diccionario__1_.coverage" NAME="detectar_primos_diccionario (1) Coverage Results" MODIFIED="1632008992144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/detectar_primos_lista_py$detectar_primos_lista.coverage" NAME="detectar_primos_lista Coverage Results" MODIFIED="1632011573297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
