@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Subo contador_de_jueves en formato ipynb" />
+    <list default="true" id="427709cf-4fbc-4319-82f5-9377ccb12e2e" name="Changes" comment="Terminé de acomodar ejercicios para subirlos">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/detectar_primos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ej2_contador_de_jueves.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ej2_contador_de_jueves.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ej3_d'hondt (JN).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ej3_d'hondt.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ej3_d'hondt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1/ejercicio1Promo.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,6 +209,10 @@
       <workItem from="1632247731241" duration="50000" />
       <workItem from="1632247904369" duration="44000" />
       <workItem from="1632248169997" duration="42000" />
+      <workItem from="1632248311913" duration="54000" />
+      <workItem from="1632251163709" duration="309000" />
+      <workItem from="1632251575559" duration="57000" />
+      <workItem from="1632251720077" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué carpeta exámenes y cree archivo primo_numero_mil">
       <created>1631718101744</created>
@@ -326,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632248196317</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Borré contador_de_jueves y detectar_primos en formato py">
+      <created>1632248350205</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1632248350205</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +382,8 @@
     <MESSAGE value="Volví a subir &quot;detectar primos&quot; pero comentado" />
     <MESSAGE value="Subo detectar_primos en formato ipynb" />
     <MESSAGE value="Subo contador_de_jueves en formato ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subo contador_de_jueves en formato ipynb" />
+    <MESSAGE value="Borré contador_de_jueves y detectar_primos en formato py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Borré contador_de_jueves y detectar_primos en formato py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ejercicio_2_promo_py$ejercicio_2_promo.coverage" NAME="ejercicio_2_promo Coverage Results" MODIFIED="1632101223318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenes/trabajo_practico_programaciom_N1" />
