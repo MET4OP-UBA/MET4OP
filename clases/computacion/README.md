@@ -13,3 +13,9 @@ TEMAS
 - 05: Numpy.
 
 - 06: Pandas.
+
+- 07: Visualización. Matplotlib, Seaborn.
+
+- 08: GIS.
+
+- 08: Geopandas. Geovisualización. 
