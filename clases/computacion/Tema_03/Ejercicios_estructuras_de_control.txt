@@ -39,7 +39,7 @@ determinar qué porcentaje de los n diputados está a favor de modificar el mín
 9. Ingresar dos números enteros. Verificar si el primero es menor que el segundo. En caso
 afirmativo mostrar todos los números comprendidos entre ellos en secuencia ascendente, incluyendo los extremos. En caso contrario mostrar un cartel.
 
-9. Hacer un algoritmo para obtener la suma de 10 cantidades.
+10. Hacer un algoritmo para obtener la suma de 10 cantidades.
 
-10.Realizar un algoritmo para generar y mostrar los números pares que se encuentran
+11.Realizar un algoritmo para generar y mostrar los números pares que se encuentran
 entre 0 y 100.

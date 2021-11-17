@@ -18,4 +18,6 @@ TEMAS
 
 - 08: GIS.
 
-- 08: Geopandas. Geovisualización. 
+- 09: Geopandas. Geovisualización. 
+
+- 10: POO. Programación orientada a objetos
