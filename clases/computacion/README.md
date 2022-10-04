@@ -14,10 +14,12 @@ TEMAS
 
 - 06: Pandas.
 
-- 07: Visualización. Matplotlib, Seaborn.
+- 07: Teoría de Bases de Datos.
 
-- 08: GIS.
+- 08: Visualización. Matplotlib, Seaborn.
 
-- 09: Geopandas. Geovisualización. 
+- 09: GIS.
 
-- 10: POO. Programación orientada a objetos
+- 10: Geopandas. Geovisualización. 
+
+- 11: POO. Programación orientada a objetos
