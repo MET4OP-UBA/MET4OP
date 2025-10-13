@@ -13,6 +13,8 @@ print(mesas.head())
 print(mesas.info())
 print(mesas.describe())
 print(mesas.columns)
+#%%
+mesas.sample(3)
 #%% voy a eliminar intencionalmeente columnas que voy a recalcular
 mesas = mesas.drop(columns=['comuna_x', 'comuna','cant_votantes','no_voto'])
 
@@ -27,7 +29,6 @@ print(circuitos_gdf.head())
 print(circuitos_gdf.info())
 print(circuitos_gdf.describe())
 print(circuitos_gdf.columns)
-print(circuitos_gdf.plot())
 #%% Ploteo los circuitos electorales
 print(circuitos_gdf.plot())
 # %% Arreglo nombres de columnas para hacer posible un match entre los datos
@@ -52,12 +53,12 @@ fig, ax = plt.subplots(figsize=(10, 10))
 circuitos_merged.plot(
     ax=ax,
     column='cant_votantes',  # columna para colorear
-    cmap='YlOrRd',            # paleta de colores
+    cmap='magma',            # paleta de colores
     scheme='quantiles',       # método de clasificación (otros: 'equal_interval', 'natural_breaks', etc.)
-    k=7,
-    edgecolor='green',        # color de borde
+    k=4,
+    edgecolor='gold',        # color de borde
     linewidth=1,              # grosor del borde
-    alpha=1,                  # transparencia
+    alpha=0.5,                  # transparencia
     legend=True               # agregar leyenda
     # Otros posibles: legend_kwds={'label': 'Cantidad de votantes', 'shrink': 0.6}
 )
@@ -71,7 +72,7 @@ ax.set_ylabel('Latitud')
 plt.figtext(0.5, 0.01, 'Fuente: Scraping propio - Año 2025', ha='center', fontsize=9)
 
 # Variante: ocultar los ejes (ideal para mapas más limpios o visualizaciones puras)
-# ax.set_axis_off()
+ax.set_axis_off()
 
 plt.tight_layout()
 plt.show()
@@ -449,53 +450,53 @@ barrios_gdf = gpd.read_file('../../../dataset/barrios_caba/caba_barrios.geojson'
 #%% Cargo datos reales de precio dle metro cuadrado en dolares al 2ndo trim 2025
 precios_m2 = {
     'Agronomía': None,
-    'Almagro': 2.399,
-    'Balvanera': 2.070,
-    'Barracas': 2.060,
-    'Belgrano': 3.154,
-    'Boca': 1.555,
-    'Boedo': 2.092,
-    'Caballito': 2.490,
-    'Chacarita': 2.740,
-    'Coghlan': 2.666,
-    'Colegiales': 3.005,
-    'Constitución': 2.000,
-    'Flores': 2.171,
-    'Floresta': 2.069,
+    'Almagro': 2399,
+    'Balvanera': 2070,
+    'Barracas': 2060,
+    'Belgrano': 3154,
+    'Boca': 1555,
+    'Boedo': 2092,
+    'Caballito': 2490,
+    'Chacarita': 2740,
+    'Coghlan': 2666,
+    'Colegiales': 3005,
+    'Constitución': 2000,
+    'Flores': 2171,
+    'Floresta': 2069,
     'La Paternal': None,
-    'Liniers': 2.024,
-    'Mataderos': 2.038,
-    'Monte Castro': 2.180,
-    'Montserrat': 2.245,
+    'Liniers': 2024,
+    'Mataderos': 2038,
+    'Monte Castro': 2180,
+    'Montserrat': 2245,
     'Nueva Pompeya': None,
-    'Núñez': 3.197,
-    'Palermo': 3.155,
+    'Núñez': 3197,
+    'Palermo': 3155,
     'Parque Avellaneda': None,
-    'Parque Chacabuco': 2.365,
-    'Parque Chas': 2.527,
-    'Parque Patricios': 1.796,
-    'Puerto Madero': 5.865,
-    'Recoleta': 2.811,
-    'Retiro': 2.425,
-    'Saavedra': 2.726,
-    'San Cristóbal': 2.008,
-    'San Nicolás': 2.043,
-    'San Telmo': 2.336,
-    'Vélez Sarsfield': 1.851,
+    'Parque Chacabuco': 2365,
+    'Parque Chas': 2527,
+    'Parque Patricios': 1796,
+    'Puerto Madero': 5865,
+    'Recoleta': 2811,
+    'Retiro': 2425,
+    'Saavedra': 2726,
+    'San Cristóbal': 2008,
+    'San Nicolás': 2043,
+    'San Telmo': 2336,
+    'Vélez Sarsfield': 1851,
     'Versalles': None,
-    'Villa Crespo': 2.573,
-    'Villa del Parque': 2.399,
-    'Villa Devoto': 2.501,
-    'Villa Gral. Mitre': 2.245,
+    'Villa Crespo': 2573,
+    'Villa del Parque': 2399,
+    'Villa Devoto': 2501,
+    'Villa Gral. Mitre': 2245,
     'Villa Lugano': None,
-    'Villa Luro': 2.149,
-    'Villa Ortúzar': 2.570,
-    'Villa Pueyrredón': 2.389,
+    'Villa Luro': 2149,
+    'Villa Ortúzar': 2570,
+    'Villa Pueyrredón': 2389,
     'Villa Real': None,
     'Villa Riachuelo': None,
-    'Villa Santa Rita': 2.162,
+    'Villa Santa Rita': 2162,
     'Villa Soldati': None,
-    'Villa Urquiza': 2.728
+    'Villa Urquiza': 2728
 }
 # %%
 precios_m2_df = pd.DataFrame(precios_m2.items(), columns=['BARRIO', 'PRECIO_M2'])
